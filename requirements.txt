@@ -1,0 +1,7 @@
+flask
+openai
+python-dotenv
+
+
+# Make chatbot
+# Hold previous memory
